@@ -1,0 +1,1 @@
+cd "d:\StreamReaderandWriter_0059\" ; if ($?) { g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
